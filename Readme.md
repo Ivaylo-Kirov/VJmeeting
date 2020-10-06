@@ -1,0 +1,1 @@
+Brief exercise on coercion and types. Mostly it ended up being using Date.parse for hour comparisons and having an "addMinutes" function
